@@ -8,7 +8,9 @@
     7.1 Franka Panda Description - https://git.tu-berlin.de/rbo/robotics/franka_panda_description  
     7.2 Franka Panda Analytical Inverse Kinematics - https://git.tu-berlin.de/rbo/robotics/franka-panda-analytical-inverse-kinematics  
     7.3 RH3 Description - https://git.tu-berlin.de/rbo/robotics/rh3-description  
-    7.4 RH3 Kinematics - https://git.tu-berlin.de/rbo/robotics/rh3-kinematics  
+    7.4 RH3 Kinematics - https://git.tu-berlin.de/rbo/robotics/rh3-kinematics
+    7.5 RH3 PyBullet Simulation - https://git.tu-berlin.de/rbo/robotics/rh3-pybullet-simulation
+    7.6 Hrl-Kdl - https://git.tu-berlin.de/rbo/robotics/hrl-kdl
 8. Run `catkin build` from `/catkin_ws`.
 9. `source catkin_ws/devel/setup.bash`
 10. Install PyKDL and Kinematic/Dynamic Utils functions: https://git.tu-berlin.de/-/snippets/430
